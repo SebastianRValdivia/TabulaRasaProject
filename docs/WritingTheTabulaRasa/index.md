@@ -43,20 +43,52 @@ Following is an explain this parts in more detail with examples.
 ### Graphs
 ### Examples
 ### Spread Sheets
+### Analogies and Metaphors
 
 ## Assistance Tools
 This are tools and practices designed not to write down knowledge but to assist this process.
 
-
 ### To Dos
+A simple To Do reminder is an extremely simple yet effective way to remember to do something.
 
 ### Practice Tracker
 
 ### Style Check
 This is the simple process of checking if the writing follows the stated style. Enforcing this is essential in the long run to preserve consistence.
 
+### Time Tools
+Time is an essential part of everything. For understanding why this is important we are going to show down trough equations.
+
+Lets calculate how do we study:
+
+A simple study (from an simple perspective) its composed from *reading/hearing, practices, and others methods* which we will call **r** and our brains doing understanding of this, this is going to be **b**. So far we got:
+
+<code>
+    r + b = new acknowledge
+</code>
+
+If you ever take an exam, when you are about to do it, did you feel like you needed more time? This is the same concept. Remembering something is not a job that done in a wormhole.
+
+This is equation isn't complete because reading takes time and also the moments our brain takes to make the letters take sense. Even the fastest computer takes a little time (nanoseconds) to read and show us letters in the interface. So its impossible to us (humans) to stop time to study and then continue with our lives after it.
 
 
+To accomplish a more complete equation we need to add the time we take doing each task. We will refer to time with **t**.
+
+<code>
+    (r * t) + (b * t) = new acknowledge
+</code>
+
+This isn't over yet. There is one more problem: we can't do this forever. We need to rest, eat, socialize and more. All those activities is time we has to add it to the total and its named **a**.
+
+<code>
+    (r * t) + (b * t) + (a * t) = new acknowledge
+</code>
+
+Now time is not really acknowledge, just a ingredient to the recipe, so if we remove **t** we can get how much time do we need to study thus how effective are we in timing terms. This is why a time track of the process is important.
+
+Others tools like pomodoro technique are widely used to assist. This tools are time based experience, normally using an timer or stopwatch.
+
+Once we know how much stress we can take and approximately how long we need we can use this tools to improve the process to reduce and control the time.
 
 # Try over and over till until it is welded
 
