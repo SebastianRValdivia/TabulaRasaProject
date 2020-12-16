@@ -28,7 +28,7 @@ DEBUG = env('DEBUG')
 SECRET_KEY = env('SECRET_KEY')
 
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = env('ALLOWED_HOSTS')
 
 
 # Application definition
@@ -46,6 +46,8 @@ INSTALLED_APPS = [
     'rest_framework',
 
     # Project apps
+    'api.apps.ApiConfig', # REST API app
+    'user.apps.UserConfig', # User app
 ]
 
 MIDDLEWARE = [
