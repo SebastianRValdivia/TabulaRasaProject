@@ -1,1 +1,11 @@
 site_name: Tabula Rasa Documentation
+repo_url: https://github.com/SebastianRValdivia/TabulaRasaProject
+site_description: Tabula Rasa Project Documentation
+site_author: SebastianRValdivia
+
+nav:
+  - Writing The Tabula Rasa: 'WritingTheTabulaRasa/index.md'
+  - Contributing: ''
+  - FAQs: ''
+
+theme: readthedocs
