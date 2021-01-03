@@ -12,8 +12,10 @@ What is **Tabula Rasa**? The term Tabula Rasa comes from a philosophical perspec
 
 The name comes in reference of the roman wax tablet which was used for writing since the 8th century BC.
 
-# The hypothesis: How to portray your mind?
+# How to portray your mind?
 -------------------------------------------------------------------------------
+
+This is the hypothesis of this essay: how to turn something in your volatile brain in a brick in the wall (figuratively).
 
 # Memory and models
 -------------------------------------------------------------------------------
