@@ -76,16 +76,18 @@ To list solutions to this problems we can use:
 - Side notes or errata to resolve perplexity of the reader.
 
 ### How to guides
-Guides are essential to 
+Guides are essential to document any process
 
 ### Cheat Sheets
 ### Definitions
 ### References
+### Journals
+This journals refers to an experiment/proyect journals used to takes notes and observations of the evolution of some progresive exercise and any other type or research. The effort put in conduction a trial-error experiment is usually high cost but provides a high reward since conducting your own undertaking is more lucrative to your brain than watching someone else do it.
 
 ## Tools
 
 ### Text
-The most common tool for explaingin and describing in paperback. Probably the most accessible action to write down a thining. The process to do so is made by imagine telling it to someone else and instead of using the mouth you use your hand and place the same words in writing.
+The most common tool for explain and describing in paperback. Probably the most accessible action to write down a thining. The process to do so is made by imagine telling it to someone else and instead of using the mouth you use your hand and place the same words in writing.
 
 This method is easier to start but the hardest to master. To be successful is necessary to 
 
