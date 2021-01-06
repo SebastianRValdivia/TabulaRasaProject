@@ -3,6 +3,8 @@ repo_url: https://github.com/SebastianRValdivia/TabulaRasaProject
 site_description: Tabula Rasa Project Documentation
 site_author: SebastianRValdivia
 
+dev_addr: 127.0.0.1:8001
+
 nav:
   - Writing The Tabula Rasa: 'WritingTheTabulaRasa/index.md'
   - Contributing: ''
