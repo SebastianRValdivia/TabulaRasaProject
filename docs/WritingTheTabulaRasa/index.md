@@ -153,9 +153,9 @@ Once we know how much stress we can take and approximately how long we need we c
 
 # Welding neurons
 -------------------------------------------------------------------------------
-What's the best way to stick something to you memory? This is a hard one. There is no simple way to, with one trick, remember that thing forever. If you analyse all the stuff you can maintaining in your brain you will realize is stuff you do or relive often in time, nothing is eternal (actually we change ourself every time we sleep).
+What's the best way to stick something to you memory? This is a hard one. There is no simple way to, with one trick, remember that thing forever. If you analyse all the stuff you can maintaining in your brain you will realize relive often in time because nothing is eternal (fun fact: we change ourself every time we sleep).
 
-Lets use a simple and complete example of how you weld something. Did you realize how you can remember an important day like your birthday at least, all times, every year. This happens because several reasons but we can list the most important:
+Did you realize how you can remember an important day like your birthday, all times, every year. This happens for several reasons but we can list the most important:
 
 1. It's repeated over time, but not to often.
 2. It an important day and some events occur which make you attached.
@@ -163,15 +163,37 @@ Lets use a simple and complete example of how you weld something. Did you realiz
 
 Now break them down and you will likely spot the pattern: **it's recurrent, cognitive and catchy**.
 
+## Recurrence
 Repetition is the one that stand out for most people, still is proved to be **not** the most effective.
+
+Lets use learning an instrument as an example, if you never played anything you must trust this or better yet attempt to do so.
+
+The first days it will be a complete mess you will get confused, specially in case that is your first dive into music but we will avoid this initial state since it doesn't belong here. After learning a thing or two about it you will start playing notes and chords to perform a song from now on all it takes is *practice* to archive more.
+
+So practice is the strategy to succeed in mastering a skill; but how to approach it?.
+
+There are diverse types of practice, back to the instrument example one used by young musician is *massed* practice which consists of repetition over and over again non-stop for long periods of time. Many movies are film with the protagonist using this technique. Is it the best way? No, the burnout and the stress will deplete you and after a while you won't be increasing the skill but just losing time an more efficient alternative is using interleave practice that jumps from one point to another point but its still face the exhaustion problem. This open doors for  the other type *spaced* practice, this one consists in repetition in fixed time sessions to avoid collapse, next step, as similar to the interleave practice plan, is to keep variation of affair.
 
 
 # The universe is always expanding
 -------------------------------------------------------------------------------
-Tracking progress
+Everyday we learn new concepts and forgen others, all the models we have change continuosly and there is no 
+
+# Labeling Drawers
+-------------------------------------------------------------------------------
+Organization is one of the more important aspects of a person knowledge, or more to be more precise: the speed to access such thing.
+
+The ability to retrieve information is a dexterity that required practice. Acquiring expertise in retrieval of information strength the path to find a memory in the brain. 
+
+With decoupled information from your brain the best way to speed up the process is either but just memorizing where each this is placed at or keep a clear *path* to access it when needed.
+
+It's easy to just throw all into one notebook but then if you require to recall one subject in a place with thousands of them how much time will you spend? It can take even the same amount of learning it again.
+
+If you keep order by relative material you can find it by going to the one you remember. If you search by the similar words or some letters like the first letter you may find it's name.
 
 # Appearance matters
 -------------------------------------------------------------------------------
+Fashion 
 
 
 # Conclusion
