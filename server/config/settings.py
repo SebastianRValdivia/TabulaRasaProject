@@ -14,7 +14,9 @@ from pathlib import Path
 import environ
 
 # Load .env
-env = environ.Env()
+env = environ.Env(
+    ALLOWED_HOSTS=(list, []),
+)
 env.read_env()
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -28,7 +30,7 @@ DEBUG = env('DEBUG')
 SECRET_KEY = env('SECRET_KEY')
 
 
-ALLOWED_HOSTS = env('ALLOWED_HOSTS')
+#ALLOWED_HOSTS = [] # Loaded at start
 
 
 # Application definition
