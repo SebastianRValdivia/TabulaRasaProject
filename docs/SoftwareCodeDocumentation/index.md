@@ -11,7 +11,8 @@ To contribute use the standar PR of github method and please read how to write c
 Like any software there is a guide of how to contribute to the code. Since the code is all in one repostory, its splited in parts.
 Need a guide to know how things work before jumping to the code. Check the guides.
 
-* [Server Guide](Server Style Guide)
+* [Server Guide](Backend/index.md)
+* [Lite web site](Lite/index.md)
 
 ## How to commit
 Its a hard requirement to write commit titles with this initial words. This is used to automate an changelog.
