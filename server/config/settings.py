@@ -12,6 +12,7 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 
 from pathlib import Path
 import environ
+import os
 
 # Load .env
 env = environ.Env(
@@ -131,6 +132,9 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 STATIC_URL = '/static/'
 
+if DEBUG:
+    STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static'),]
+
 # Rest framework configuration
 REST_FRAMEWORK = {
     # Use Django's standard `django.contrib.auth` permissions,
@@ -139,3 +143,6 @@ REST_FRAMEWORK = {
         'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'
     ]
 }
+
+# Session configuration
+LOGIN_REDIRECT_URL = '/'
