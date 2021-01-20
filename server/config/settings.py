@@ -51,6 +51,7 @@ INSTALLED_APPS = [
     # Project apps
     'api.apps.ApiConfig', # REST API app
     'user.apps.UserConfig', # User app
+    'lite.apps.LiteConfig', # Lite web version
 ]
 
 MIDDLEWARE = [
