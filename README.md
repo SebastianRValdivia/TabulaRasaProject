@@ -2,11 +2,11 @@
 
 ### IN DEVELOPEMENT DO NOT USE IN PRODUCTION **YET**
 
-Tabula Rasa is a self hosted web service made to work as a one place activity tracker, for a single person or for an entire organization.
+Tabula Rasa is a self hosted web service made to work as a one place knowledge database for a single person or an entire organization.
 
 Based on the idea of writing down everything it happen and tracking the progress of what is learned in time.
 
-It provides many features that can overwhelming if you are just looking for one or a couple of them. If this is the case, this may not be what you are searching and some other self hosted software can do the job.
+It provides many features that can overwhelming if you are just looking for one or a couple of them. If this is the case, this may not be what you are searching and some other self hosted software can do the job. For more information check FAQs.
 
 
 ---
