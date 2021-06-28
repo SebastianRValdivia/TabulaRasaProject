@@ -52,6 +52,7 @@ INSTALLED_APPS = [
     'api.apps.ApiConfig', # REST API app
     'user.apps.UserConfig', # User app
     'lite.apps.LiteConfig', # Lite web version
+    'applications.wiki.apps.WikiConfig'
 ]
 
 MIDDLEWARE = [
