@@ -6,7 +6,7 @@ class WikiPage(models.Model):
 
     Wiki is made of this pages, each one is a core to all metadata of them self
     """
-    title = models.CharField()
+    title = models.CharField(max_length=80)
     creation_date = models.DateTimeField(auto_now_add=True)
     content = models.TextField()
 
@@ -24,9 +24,12 @@ class WikiPageModification(models.Model):
     def __str__(self):
         return self.update_date
 
-class WikiTag(self):
+class WikiTag(models.Model):
     """ A tag used to find content
 
     Each page uses tags as a guide to search more effective instead of keywords
     """
-    tag_name = models.CharField()
+    tag_name = models.CharField(max_length=80)
+
+    def __str__(self):
+        return self.tag_name
